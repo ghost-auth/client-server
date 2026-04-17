@@ -1,8 +1,8 @@
 {
     "url": "https://raw.githubusercontent.com/ghost-auth/client-server/refs/heads/main/lib.zip",
-    "version": "19.1.5",
+    "version": "19.1.6",
     "ff_version": "53 OB",
-    "app_version": "19.1.5",
+    "app_version": "19.1.6",
     "server_status": "Under maintenance ",
     "bg_image": "https://raw.githubusercontent.com/ghost-auth/client-server/refs/heads/main/bg_image.jpg",
     "mandatory_transfer": false,
