@@ -7,7 +7,7 @@
     "bg_image": "https://raw.githubusercontent.com/ghost-auth/client-server/refs/heads/main/bg_image.jpg",
     "mandatory_transfer": false,
     "mandatory_transfer_url": "",
-    "show_message": false,
-    "message_text": "This is an important message from the server.",
+    "show_message": true,
+    "message_text": "في حال ظهرت لك رسالة:\n\"Loding please wait\"\nيرجى العلم أن السيرفر مغلق حالياً وقيد المراجعة.\nلا يوجد أي مشكل، حيث يتم العمل على إصلاح بعض الأخطاء التقنية.\n\nIf you see the message:\n\"Loding please wait\"\nPlease note that the server is temporarily closed and under review.\nThere is no issue, as some technical errors are being fixed.",
     "activation_code_url": "https://getkey-ghost.vercel.app/"
 }
