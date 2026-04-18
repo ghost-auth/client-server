@@ -1,8 +1,8 @@
 {
     "url": "https://raw.githubusercontent.com/hossambotff/hossamserver/main/lib.zip",
-    "version": "1.0.0",
-    "ff_version": "xOB",
-    "app_version": "2.0.0",
+    "version": "19.0.6",
+    "ff_version": "53 OB",
+    "app_version": "19.0.6",
     "server_status": "Connected",
     "bg_image": "https://raw.githubusercontent.com/hossambotff/hossamserver/main/bg_image.jpg",
     "mandatory_transfer": false,
