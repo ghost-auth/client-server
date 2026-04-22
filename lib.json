@@ -25,5 +25,10 @@
         "version_text": "Version X 19 (Stable)",
         "version_color": "#444444",
         "version_size": 10.0
+    },
+    "video": {
+        "enabled": true,
+        "url": "https://raw.githubusercontent.com/ghost-auth/client-server/main/background.mp4",
+        "version": "1.0.1"
     }
 }
